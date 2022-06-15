@@ -1,0 +1,85 @@
+{
+  "pets": [
+    {
+      "breed": "Pastor Alemán",
+      "caracter": "Obediente, Inteligente, Vigilante",
+      "hair_type": "Largo",
+      "size": "Mediano",
+      "weight": "30kg - 40kg",
+      "picture": "https://i.imgur.com/o8Uee63.jpg",
+      "id": 1
+    },
+    {
+      "breed": "Doberman",
+      "caracter": "Activo, Inteligente, Equilibrado",
+      "hair_type": "Corto",
+      "size": "Grande",
+      "weight": "25kg - 45kg",
+      "picture": "https://i.imgur.com/j0skjHB.jpg",
+      "id": 2
+    },
+    {
+      "breed": "Bichon Maltés",
+      "caracter": "Ladrador, Sociable, Activo",
+      "hair_type": "Largo",
+      "size": "Pequeño",
+      "weight": "3kg - 10kg",
+      "picture": "https://i.imgur.com/GFEd4J6.jpg",
+      "id": 3
+    },
+    {
+      "breed": "MUDI",
+      "caracter": "Equilibrado, Sociable y Activo",
+      "hair_type": null,
+      "size": "Mediano",
+      "weight": "10 - 25 kg",
+      "picture": "https://i.imgur.com/ZKole9M.jpg",
+      "id": 4
+    },
+    {
+      "breed": "Pumi",
+      "caracter": "Tímido, Inteligente y Activo",
+      "hair_type": "Medio",
+      "size": "Mediano",
+      "weight": "10-25kg",
+      "picture": "https://i.imgur.com/32TgRgD.jpg",
+      "id": 5
+    },
+    {
+      "breed": "Pastor Islandés",
+      "caracter": "Sociable, Activo y Cariñoso",
+      "hair_type": "Largo",
+      "size": "Pequeño",
+      "weight": "10-25kg",
+      "picture": "https://i.imgur.com/GwKHuQ1.jpg",
+      "id": 6
+    },
+    {
+      "breed": "Caniche",
+      "caracter": "Activo, Fiel y Dócil",
+      "hair_type": "Medio",
+      "size": "Pequeño",
+      "weight": "5-15kg",
+      "picture": "https://i.imgur.com/fZn7s5J.jpg",
+      "id": 7
+    },
+    {
+      "breed": "Bichon Habanero",
+      "caracter": "Cariñoso, Inteligente y Activo",
+      "hair_type": "Medio",
+      "size": "Pequeño",
+      "weight": "3-10kg",
+      "picture": "https://i.imgur.com/VWtN3l8.jpg",
+      "id": 8
+    },
+    {
+      "breed": "Chow Chow",
+      "caracter": "Fiel, Cariñoso y Activo",
+      "hair_type": "Medio",
+      "size": "Grande",
+      "weight": "15-20kg",
+      "picture": "https://heraldodemexico.com.mx/u/fotografias/m/2020/8/20/f638x638-249695_307862_5050.jpg",
+      "id": 9
+    }
+  ]
+}
